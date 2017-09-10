@@ -4,8 +4,7 @@
  * @flow
  */
 import counter from '../components/counter';
-import React, { Component } from 'react';
-import { bindActionCreators } from 'redux'
+// import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux';
 // import actions from '../actions/counter';  //use when complex actions here only { type: 'INCREMENT' } obj
 
